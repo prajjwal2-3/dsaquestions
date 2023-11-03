@@ -3,7 +3,7 @@
 public class binar {
     public static void main(String[] args) {
 int[] arr={2,34,54,56,78};
-int target = 56;
+int target =  6;
 int s =0;
 int e=arr.length-1;
         System.out.println(binu(arr,target,s,e));
